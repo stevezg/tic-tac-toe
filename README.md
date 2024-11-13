@@ -2,7 +2,7 @@
 
 A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend on the same device!
 
-![Tic-Tac-Toe Screenshot]("/tic-tac-toe.png")
+![Tic-Tac-Toe Screenshot](/tic-tac-toe.png)
 
 ## Features
 
